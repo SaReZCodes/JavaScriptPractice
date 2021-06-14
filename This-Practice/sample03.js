@@ -1,3 +1,5 @@
+//Its Scope
+
 function foo() {
 	var a = 2;
 	this.bar();
