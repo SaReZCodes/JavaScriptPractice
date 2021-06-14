@@ -1,3 +1,4 @@
+//Itself
 function write(num) {
    console.log(num);
    this.count++;
